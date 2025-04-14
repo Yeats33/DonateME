@@ -21,7 +21,7 @@
   TKTQMEQds4MHpCzWRCdcD27Zs548888888
   ```
 - <details> <summary>点击展开二维码</summary>
-  <img src="Tron/Tron.jpg" alt="Tron QR Code" />
+  <img src="TRON/TRON.jpg" alt="Tron QR Code" />
   </details>
 - **备注：** 请确保使用 Tron 网络进行转账。
 
