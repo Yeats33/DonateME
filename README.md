@@ -51,9 +51,12 @@
 
 ### Solana (SOL)
 
-- **钱包地址：**
+- **钱包地址：yeats.sol**
   ```
   D5jmHJfDW4UwgWFG8ZPEotLpjuNtSTxjdxGWnstAbTEi
+  ```
+  ```
+  BJjcf2AFf7tZGYwovDVxmBURcsrnXto8UjGDaG9yeats
   ```
 - <details> <summary>点击展开二维码</summary>
   <img src="SOL/SOL.jpeg" alt="Solana QR Code" />
@@ -159,5 +162,3 @@ Thank you for your support! You can donate through the following methods. This p
 <div align="right">
   <a href="#打赏支持">Top</a>
 </
-
-
