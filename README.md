@@ -66,25 +66,15 @@
 ---
 
 ## 2. 法币支付
+<img src="CN/聚合收款-Yeats Sang.png" alt="微信/支付宝" width="400" />
 
-### 支付宝
-
-- **支付二维码：**
-  暂无
-
-### 微信
-
-- **赏赞码：**
-  <!-- ![微信二维码](CN/WeChat.JPG) -->
-  <!-- <img src="CN/WeChat.JPG" alt="微信二维码" /> -->
-  <img src="CN/WeChat.JPG" alt="微信二维码" width="400" />
 
 ---
 
 ## 3. 其他说明
 
 - 转账前请务必确认您选择了正确的网络和货币种类，避免因网络错误导致资金损失。
-- 如果遇到任何问题，请通过 [联系邮箱](mailto:frankie.fc.wang@outlook.com) 与我们联系。
+- 如果遇到任何问题，请通过 [联系邮箱](mailto:donate@yeats.pro) 与我们联系。
 
 再次感谢您的支持与打赏！
 
@@ -120,7 +110,6 @@ Thank you for your support! You can donate through the following methods. This p
   ```
   0x000000042c0e28cB7c59209e2FB745614814a4a4
   ```
-- **ENS:**  `4a4a4.eth` ,`frankie.science`,`yeatss.eth`
 - <details> <summary>Click to expand QR code</summary>
   <img src="EVM/EVM.jpg" alt="EVM QR Code" />
   </details>
@@ -146,14 +135,7 @@ Thank you for your support! You can donate through the following methods. This p
 - **Note:** Please ensure you are sending tokens supported by the Solana network.
 
 # 2. Network Payment
-### Alipay
-- **Payment QR Code:**
-  Coming soon
-### WeChat
-- **Donation QR Code:**
-  <!-- ![WeChat QR Code](CN/WeChat.JPG) -->
-  <!-- <img src="CN/WeChat.JPG" alt="WeChat QR Code" /> -->
-  <img src="CN/WeChat.JPG" alt="WeChat QR Code" width="400" />
+<img src="CN/聚合收款-Yeats Sang.png" alt="微信/支付宝" width="400" />
 
 
 # 3. Other Notes
